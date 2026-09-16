@@ -1,1 +1,2 @@
-#  Basic C-Programming
+#  Codes 1
+Basic C programming
